@@ -1,15 +1,15 @@
-### qwickworkAPIassignment
+# qwickworkAPIassignment
 
 
 
 
-# Step 1: Creating a New Project
+### Step 1: Creating a New Project
 
   Make a new project in the Google Developer Console
 
   Select a project in the top left corner
 
-# Step 2: Create API Credentials
+### Step 2: Create API Credentials
   
   Go to project settings
 
@@ -25,9 +25,9 @@
   
   You can give your client ID any name you like, but under Restrictions in the Authorized redirect URIs section add https://developers.google.com/oauthplayground
 
-# Step 3: Save your Client ID and Client Secret
+### Step 3: Save your Client ID and Client Secret
 
-# Step 4: Configure OAuth
+### Step 4: Configure OAuth
 
   Go to https://developers.google.com/oauthplayground and click the tools icon
 
@@ -37,14 +37,14 @@
   
   Then we will get refreshtoken, save it
 
-# Step 5: create a folder
+### Step 5: create a folder
 
   Go to your folder using command line or terminal and enter npm init or npm init your projectfoldername
 
   npm install express body-parser nodemailer googleapis
 
 
-# Step 6: Run the code
+### Step 6: Run the code
 
   run it using node filename.js(server.js)
 
